@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kostya</h1>
 <h3 align="center">An undergraduate student & backend developer at Yandex</h3>
 
-<p align="left"> For the last 2 years I was busy working on various indexing projects. Among them there are planets: Jupiter, Mercury, Callisto, Solaris(by Stanislav Lem) and some Pluto related projects (it is a real project names)
+<p align="left"> For the last 2 years I was busy working on various indexing projects. Among them there are planets: Jupiter, Mercury, Callisto, Solaris(by Stanislav Lem) and some Pluto related projects (all of them are real project names)
 </p>
 
 <h3 align="left">Connect with me:</h3>
